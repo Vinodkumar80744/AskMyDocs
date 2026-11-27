@@ -15,6 +15,11 @@ Upload PDF documents, ask questions in natural language, retrieve relevant infor
 🌐 **Application:** https://askmydocs-diyexx8jehp2jf88hfg7hf.streamlit.app/
 
 The application is deployed using Streamlit Community Cloud.
+## Application Preview
+
+![AskMyDocs Application](screenshots/askmydocs-home.png)
+
+🌐 [Try AskMyDocs Live](https://askmydocs-diyexx8jehp2jf88hfg7hf.streamlit.app/)
 
 ## Features
 
